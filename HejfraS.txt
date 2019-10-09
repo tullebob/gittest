@@ -1,0 +1,6 @@
+Public class Hej{
+public static void main (String args[] ){
+System.out.println("Glæder mig til at arbejde");
+}
+
+}
