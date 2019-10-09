@@ -1,0 +1,7 @@
+public class{
+public static void main (String args []){
+sytem.out.println("kan i se mine ændringer??");
+
+}
+
+}
